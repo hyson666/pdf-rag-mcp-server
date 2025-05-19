@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hyson666-pdf-rag-mcp-server-badge.png)](https://mseep.ai/app/hyson666-pdf-rag-mcp-server)
+
 # PDF RAG MCP Server
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3aeb102a-6d7f-4d58-a15b-129e640b2e35" />
 
